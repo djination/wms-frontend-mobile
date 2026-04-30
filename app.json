@@ -23,7 +23,9 @@
       "package": "com.wms.mobile"
     },
     "scheme": "wms",
-    "plugins": [],
+    "plugins": [
+      "expo-asset"
+    ],
     "extra": {
       "apiUrl": "http://10.0.2.2:4000"
     }
